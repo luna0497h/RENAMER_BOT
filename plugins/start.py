@@ -12,8 +12,8 @@ async def start(client,message):
 	**Document Or Video** and enter new filenameto rename it__
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup([[
-          InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lunamoviestore"), 
-	  InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/MoTech_YT")
+          InlineKeyboardButton("Channel 🇮🇳" ,url="https://t.me/lunamoviestore"), 
+	  InlineKeyboardButton("Group 🧐", url="https://t.me/lunamovies007")
           ],[
           InlineKeyboardButton("🧩 Deploy 🧩", url="https://youtu.be/7ALYUk-rYMc")
           ]]
