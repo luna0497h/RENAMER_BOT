@@ -36,7 +36,7 @@ Telegram File Renamer Bot
 * `/broadcast` reply to message
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/RENAMER_BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luna0497h/RENAMER_BOT)
 
 ## License
 ````
@@ -48,18 +48,18 @@ Licensed works, modifications,
 and larger works may be distributed under different terms and without source code 
 ````
 
-## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+## Channel 🇮🇳
+<a href="https://t.me/lunamoviestore">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/MoTech_YT">
-   <p> YouTube </p>
+<a href="https://t.me/lunamovies007">
+   <p> Telegram </p>
   </a>
 
 ## Credits
 
 <p align="left">
-  <a href="https://github.com/pyrogram/pyrogram">
+  <a href="https://github.com/luna0497h/pyrogram">
     <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
   </a>
 </p>
