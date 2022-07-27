@@ -15,7 +15,7 @@ async def start(client,message):
           InlineKeyboardButton("Channel 🇮🇳" ,url="https://t.me/lunamoviestore"), 
 	  InlineKeyboardButton("Group 🧐", url="https://t.me/lunamovies007")
           ],[
-          InlineKeyboardButton("🧩 Deploy 🧩", url="https://youtu.be/7ALYUk-rYMc")
+          InlineKeyboardButton("🧩 Deploy 🧩", url="https://github.com/luna0497h/RENAMER_BOT/blob/main/plugins/start.py")
           ]]
           )
         )
